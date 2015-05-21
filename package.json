@@ -1,0 +1,22 @@
+{
+  "name": "html-docx-js-node-sample",
+  "version": "0.0.1",
+  "description": "Sample for using html-docx-js in Node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evidenceprime/html-docx-js-node-sample.git"
+  },
+  "author": {
+    "name": "Artur Nowak",
+    "email": "artur.nowak@evidenceprime.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evidenceprime/html-docx-js-node-sample/issues"
+  },
+  "homepage": "https://github.com/evidenceprime/html-docx-js-node-sample",
+  "dependencies": {
+    "html-docx-js": "^0.2.2"
+  }
+}
